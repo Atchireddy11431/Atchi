@@ -6,3 +6,8 @@ zzzz
 gggg
 rrr
 ooo
+kk
+ss
+ddd
+dddddddd
+atchi .respository
